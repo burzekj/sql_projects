@@ -4,20 +4,20 @@ The Northwind database contains data from a fictional company called "Northwind 
 
 The database consists of the following tables:
 
--Customers
--Orders
--OrderDetails
--Products
--Categories
--Suppliers
--Employees
--Shippers
--Region
--Territories
--EmployeeTerritories
+- Customers
+- Orders
+- OrderDetails
+- Products
+- Categories
+- Suppliers
+- Employees
+- Shippers
+- Region
+- Territories
+- EmployeeTerritories
 
 ## DB Schema
-   ![Alt](/Northwind.png "Title")
+   ![Alt](https://github.com/burzekj/sql_projects/blob/main/northwind/Northwind.png)
    
 ## License
 The Northwind database is provided under the Microsoft Public License (MS-PL).
